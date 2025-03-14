@@ -1,0 +1,85 @@
+
+/* titres */
+ h3 {
+    /* width: 40%; */
+    font-size: 1.8em;
+    color: #A30023;
+    font-family: 'Princess Sofia', cursive;
+    padding: 0.4em 0.25em;
+    border-top: 0.18em double #272727;
+    border-bottom: 0.18em double #272727;
+    
+} 
+
+.titres_h3 {
+    width: 40em;
+    display: inline-flex;
+    margin-bottom: 2.5em;
+    justify-content: center;
+    align-content: center;
+    height: 5em;
+    padding-top: auto;
+    padding-bottom: auto;
+    
+}
+
+
+
+
+
+#A80,
+#A90 {
+    width: 10%;
+}
+
+
+#A40,
+#A2000, #A2010 {
+    width: 6%;
+}
+
+#A30,
+#A50,
+#A60,#A70 {
+    width: 8%;
+}
+
+
+
+/* #bulle {
+    width: 10%;
+    margin-top: 0.5em;
+    margin-right: 0.5em;
+}
+ */
+/* section qui contien toutes les années titres inclus*/
+
+#filmsCultes {
+    
+    margin-top: 6em;
+}
+
+.Annees {
+    width: 100%;
+    display: inline-flex;
+
+    margin-bottom: 20px;
+    
+}
+
+.Annees div {
+    width: 250px;
+    margin: 5px 50px 80px 50px;
+    align-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/* toutes les images de la section  filmsCultes */
+
+.Annees img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}

@@ -1,0 +1,26 @@
+@font-face{
+font-family: "Architects Draft Bold";
+src:url("fonts/Architects Draft Bold.otf") format("otf"),
+	url("fonts/Architects Draft Bold.ttf") format("ttf");
+
+font-family:"Architects Draft") 
+src:url("fonts/Architects Draft.otf") format("otf"); 
+
+font-family: "Arvin Bold Italic";
+src:url("fonts/Arvin Bold Italic.ttf") format("ttf"); 
+
+font-family: "Arvin Bold";
+src:url("fonts/Arvin Bold.ttf") format("ttf");
+
+font-family: "Arvin Italic";
+src:url("fonts/Arvin Italic.ttf") format("ttf");
+
+font-family: "Arvin Light";
+src:url("fonts/Arvin Light.ttf") format("ttf");
+
+font-family: Arvin;
+src:url("fonts/Arvin.ttf") format("ttf");
+
+font-family: Italiana-Regular;
+src:url("fonts/Italiana-Regular.ttf") format("ttf");
+}
